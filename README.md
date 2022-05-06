@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lizhuoranget
+- 👋 Hi, I’m Zhuoran Li
 - 👀 I’m interested in NLP and Deep Learning.
 - 🌱 I’m currently learning Cross-lingual Learning.
 - 💞️ I’m looking to collaborate on ...
